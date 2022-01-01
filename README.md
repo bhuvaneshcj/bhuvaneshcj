@@ -2,7 +2,6 @@
   
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=bhuvaneshcj&color=red)&nbsp;
-[![GitHub bhuvaneshcj](https://img.shields.io/github/followers/bhuvaneshcj?label=follow&style=social)](https://github.com/bhuvaneshcj)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ### About me
