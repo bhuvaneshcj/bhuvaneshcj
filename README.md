@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">Experienced in developing Web and Mobile Applications using HTML5, CSS3, JavaScript, AngularJs, Bootstrap, Ionic Framework. Expertise in making Responsive web pages using Media Queries and familier with Angular modules, services, directives and dependency injection. Hands on experience on Angular CLI (Command-line Interface).</p>
+<p align="justify">Experienced in developing Web and Mobile Applications using HTML5, CSS3, JavaScript, Php, Angular, Bootstrap, Ionic Framework, Laravel. Expertise in making Responsive web pages using Media Queries and familier with Angular modules, services, directives and dependency injection. Hands on experience on Angular CLI (Command-line Interface).</p>
 
 <br>
 <a href="https://www.linkedin.com/in/bhuvaneshcj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
