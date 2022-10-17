@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">I am expertise in Angular UI Development and wanted to work in a challenging environment that encourages learning and exposure to new ideas to stimulate professional and personal growth.</p>
+<p align="justify">An experienced Mobile and Web Application developer, I can do both the front-end and back-end of any application, and expert in Angular, Ionic, Laravel & AdonisJs.</p>
 
 <br>
 <p align="left">
