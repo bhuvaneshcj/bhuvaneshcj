@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">Mobile and Web Application Developer with experience in designing and developing applications for Android, iOS, and Windows platforms. Highly skilled in using Angular, Ionic, Laravel, and AdonisJS to create innovative and user-friendly applications. Able to work independently and as part of a team to meet deadlines and achieve project goals.</p>
+<p align="justify">Front-end developer with a passion for creating amazing websites and web applications. Proficient in Angular and capable of creating incredible user experiences and constructing Angular Web applications.</p>
 
 <br>
 <p align="left">
