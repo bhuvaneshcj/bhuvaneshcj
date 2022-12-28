@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">Front-end developer with a passion for creating amazing websites and web applications. Proficient in Angular and capable of creating incredible user experiences and constructing Angular Web applications.</p>
+<p align="justify">I am a skilled Full Stack Developer with years of experience designing and deploying web apps utilizing the MEAN stack. Working with JavaScript, Angular, Node.js, MongoDB, HTML, CSS, and other technologies is my area of expertise. I am familiar with the MEAN stack ecosystem and skilled in creating, debugging, and troubleshooting sophisticated online apps. My objective is to create and deploy user-friendly, high-quality web apps that are suited to the individual requirements of my clients.</p>
 
 <br>
 <p align="left">
