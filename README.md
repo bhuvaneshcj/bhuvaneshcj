@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">I am a skilled Full Stack Developer with years of experience designing and deploying web apps utilizing the MEAN stack. Working with JavaScript, Angular, Node.js, MongoDB, HTML, CSS, and other technologies is my area of expertise. I am familiar with the MEAN stack ecosystem and skilled in creating, debugging, and troubleshooting sophisticated online apps. My objective is to create and deploy user-friendly, high-quality web apps that are suited to the individual requirements of my clients.</p>
+<p align="justify">A passionate and motivated Angular developer with two years of experience creating dynamic and user-friendly web and mobile applications. I am proficient in Angular, Ionic, HTML, CSS, and JavaScript, and I have a strong understanding of software development concepts as well as the ability to collaborate with cross-functional teams.</p>
 
 <br>
 <p align="left">
