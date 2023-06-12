@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">A highly skilled Full Stack Developer with 2 years of experience in designing and developing web and mobile applications using Angular, Express, and Ionic. Strong expertise in building RESTful APIs, database management, and implementing user authentication and authorization systems. Demonstrated ability to work collaboratively with cross-functional teams to deliver high-quality software solutions.</p>
+<p align="justify">Angular developer with two years of experience looking for a challenging role to use my skills in creating scalable and effective websites and applications utilising Angular and the Ionic Framework. committed to producing excellent programming and first-rate user experiences.</p>
 
 <br>
 <p align="start">
