@@ -11,8 +11,13 @@ A highly skilled Full Stack Developer with 2 years of experience designing and i
 </p>
 <ul>
   <li>Developed and maintained web and mobile applications using Angular, Express, and Ionic.</li>
+  <li>Designed and implemented RESTful APIs for data exchange between server and client.</li>
+  <li>Implemented user authentication and authorization systems using JSON Web Tokens (JWT).</li>
+  <li>Developed and maintained database schemas and queries using MySQL.</li>
+  <li>Collaborated with cross-functional teams to deliver high-quality software solutions.</li>
+  <li>Worked collaboratively with team members to ensure successful project delivery.</li>
+  <li>Maintained code quality and organization using Git version control.</li>
 </ul>
-
 <br>
 <p align="start">
   <a href="https://skillicons.dev">
