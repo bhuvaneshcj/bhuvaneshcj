@@ -9,15 +9,12 @@
 <p align="justify">
 A highly skilled Full Stack Developer with 2 years of experience designing and implementing websites and mobile apps with Angular, Express, and Ionic. powerful skills in database administration, user authentication, and authorization implementation. shown the capacity to collaborate across functional boundaries to provide high-caliber software solutions.
 </p>
-<ul>
-  <li>Developed and maintained web and mobile applications using Angular, Express, and Ionic.</li>
-  <li>Designed and implemented RESTful APIs for data exchange between server and client.</li>
-  <li>Implemented user authentication and authorization systems using JSON Web Tokens (JWT).</li>
-  <li>Developed and maintained database schemas and queries using MySQL.</li>
-  <li>Collaborated with cross-functional teams to deliver high-quality software solutions.</li>
-  <li>Worked collaboratively with team members to ensure successful project delivery.</li>
-  <li>Maintained code quality and organization using Git version control.</li>
-</ul>
+<p>Developed and maintained web applications using the Angular framework, adhering to best practices and coding standards.</p>
+<p>Collaborated with UI/UX designers to translate wireframes and mockups into interactive and responsive user interfaces.</p>
+<p>Implemented complex user interactions and dynamic content using Angular components, services, and directives.</p>
+<p>Optimized application performance by identifying and resolving bottlenecks, reducing load times, and improving overall responsiveness.</p>
+<p>Integrated RESTful APIs to fetch and display data, ensuring seamless communication between front-end and back-end systems.</p>
+<p>Participated in code reviews, providing constructive feedback and ensuring code quality and consistency across the team.</p>
 <br>
 <p align="start">
   <a href="https://skillicons.dev">
