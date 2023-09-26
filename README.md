@@ -9,20 +9,6 @@
 <p align="justify">
 Dedicated and skilled Full-stack developer with over 2+ years of experience in developing and managing dynamic web applications using the Angular Framework, as well as building mobile applications for multiple platforms using the Ionic Framework. Additionally skilled in building and creating server-side applications using the Express.js framework, which enables effective routing, middleware implementation, and API development.    
 </p>
-<ul>
-    <li>Developed and maintained web applications using the Angular framework, adhering to best practices and coding
-        standards.</li>
-    <li>Collaborated with UI/UX designers to translate wireframes and mockups into interactive and responsive user
-        interfaces.</li>
-    <li>Implemented complex user interactions and dynamic content using Angular components, services, and directives.
-    </li>
-    <li>Optimized application performance by identifying and resolving bottlenecks, reducing load times, and improving
-        overall responsiveness.</li>
-    <li>Integrated RESTful APIs to fetch and display data, ensuring seamless communication between front-end and
-        back-end systems.</li>
-    <li>Participated in code reviews, providing constructive feedback and ensuring code quality and consistency across
-        the team.</li>
-</ul>
 <br>
 <p align="start">
     <a href="https://skillicons.dev">
