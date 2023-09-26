@@ -6,10 +6,9 @@
 
 ### About me
 
-<p align="justify">Dedicated and skilled Angular Developer with 2 years of experience creating dynamic and responsive
-    web applications. Proficient in front-end technologies and passionate about delivering high-quality user
-    experiences. Seeking a challenging role to contribute my expertise in Angular development and enhance my skills
-    further.</p>
+<p align="justify">
+Dedicated and skilled Full-stack developer with over 2+ years of experience in developing and managing dynamic web applications using the Angular Framework, as well as building mobile applications for multiple platforms using the Ionic Framework. Additionally skilled in building and creating server-side applications using the Express.js framework, which enables effective routing, middleware implementation, and API development.    
+</p>
 <ul>
     <li>Developed and maintained web applications using the Angular framework, adhering to best practices and coding
         standards.</li>
