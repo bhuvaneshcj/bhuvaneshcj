@@ -13,7 +13,7 @@ Dedicated and skilled Full-stack developer with over 2+ years of experience in d
 <p align="start">
     <a href="https://skillicons.dev">
         <img
-            src="https://skillicons.dev/icons?i=angular,html,css,js,jquery,ts,bootstrap,tailwind,vscode,androidstudio,firebase,git,github,gitlab,postman,ai" />
+            src="https://skillicons.dev/icons?i=angular,express,sequelize,laravel,flutter,html,css,bootstrap,tailwind,js,jquery,ts,nodejs,dart,php,mysql,firebase,cloudflare,git,github,gitlab,androidstudio,vscode,postman,ps,ai" />
     </a>
 </p>
 <br>
