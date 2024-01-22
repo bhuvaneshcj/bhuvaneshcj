@@ -7,7 +7,7 @@
 ### About me
 
 <p align="justify">
-Dedicated and skilled Full-stack developer with over 2+ years of experience in developing and managing dynamic web applications using the Angular Framework, as well as building mobile applications for multiple platforms using the Ionic Framework. Additionally skilled in building and creating server-side applications using the Express.js framework, which enables effective routing, middleware implementation, and API development.    
+As a Senior Software Engineer with over 2.5 years of hands-on experience, I bring a wealth of expertise in designing and developing robust software solutions. My skill set spans the full software development lifecycle, including requirements analysis, design, implementation, testing, and deployment. Proficient in various programming languages and frameworks, I have a proven track record of delivering high-quality and scalable software applications. I thrive in dynamic environments, adapting quickly to emerging technologies and leveraging my problem-solving skills to drive project success.  
 </p>
 <br>
 <p align="start">
