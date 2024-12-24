@@ -7,7 +7,7 @@
 ### About me
 
 <p align="justify">
-As a Senior Software Engineer with over 2.5 years of hands-on experience, I bring a wealth of expertise in designing and developing robust software solutions. My skill set spans the full software development lifecycle, including requirements analysis, design, implementation, testing, and deployment. Proficient in various programming languages and frameworks, I have a proven track record of delivering high-quality and scalable software applications. I thrive in dynamic environments, adapting quickly to emerging technologies and leveraging my problem-solving skills to drive project success.  
+As a Senior Software Engineer with over 3+ years of hands-on experience, I bring a wealth of expertise in designing and developing robust software solutions. My skill set spans the full software development lifecycle, including requirements analysis, design, implementation, testing, and deployment. Proficient in various programming languages and frameworks, I have a proven track record of delivering high-quality and scalable software applications. I thrive in dynamic environments, adapting quickly to emerging technologies and leveraging my problem-solving skills to drive project success.  
 </p>
 <br>
 <p align="start">
