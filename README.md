@@ -7,7 +7,7 @@
 ### About me
 
 <p align="justify">
-As a Senior Software Engineer with over 3+ years of hands-on experience, I bring a wealth of expertise in designing and developing robust software solutions. My skill set spans the full software development lifecycle, including requirements analysis, design, implementation, testing, and deployment. Proficient in various programming languages and frameworks, I have a proven track record of delivering high-quality and scalable software applications. I thrive in dynamic environments, adapting quickly to emerging technologies and leveraging my problem-solving skills to drive project success.  
+Full Stack Developer with 4 years of experience in designing and delivering scalable web and mobile applications using modern frameworks such as Angular, Ionic, Node.js, Laravel, and NestJS. Proficient in backend architecture and real-time data processing with technologies like WebSockets and Kafka. Successfully developed and deployed microservice-based systems for high-performance applications in fintech and task management domains. Experienced across the full software development lifecycle—from system design and architecture to deployment and release management. Have published multiple mobile applications to both the Google Play Store and Apple App Store. Seeking to contribute to dynamic, product-focused teams building innovative and impactful platforms.
 </p>
 <br>
 <p align="start">
