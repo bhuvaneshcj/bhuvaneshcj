@@ -13,7 +13,7 @@ Full Stack Developer with 4 years of experience in designing and delivering scal
 <p align="start">
     <a href="https://skillicons.dev">
         <img
-            src="https://skillicons.dev/icons?i=angular,express,sequelize,laravel,flutter,html,css,bootstrap,tailwind,js,jquery,ts,nodejs,dart,php,mysql,firebase,cloudflare,git,github,gitlab,androidstudio,vscode,postman,ps,ai" />
+            src="https://skillicons.dev/icons?i=angular,express,laravel,sequelize,html,css,bootstrap,tailwind,js,jquery,ts,nodejs,php,mysql,firebase,cloudflare,git,github,gitlab,androidstudio,vscode,postman,ps,ai" />
     </a>
 </p>
 <br>
