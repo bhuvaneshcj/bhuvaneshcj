@@ -1,27 +1,29 @@
-## Hi! Nice to meet you
+## 👋 Hey there, I’m Bhuvanesh!
 
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=bhuvaneshcj&color=red)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+![Profile Views](https://komarev.com/ghpvc/?username=bhuvaneshcj&color=blue)  
+![Build Status](https://img.shields.io/badge/build-passing-success)  
+![Last Updated](https://img.shields.io/badge/updated-August%202025-informational)  
 
-### About me
+### 🚀 About Me  
+I’m a **Full Stack Developer** with **4+ years of experience** crafting scalable web and mobile applications. I specialize in building **high-performance, user-focused products** using modern technologies.  
 
-<p align="justify">
-Full Stack Developer with 4 years of experience in designing and delivering scalable web and mobile applications using modern frameworks such as Angular, Ionic, Node.js, Laravel, and NestJS. Proficient in backend architecture and real-time data processing with technologies like WebSockets and Kafka. Successfully developed and deployed microservice-based systems for high-performance applications in fintech and task management domains. Experienced across the full software development lifecycle—from system design and architecture to deployment and release management. Have published multiple mobile applications to both the Google Play Store and Apple App Store. Seeking to contribute to dynamic, product-focused teams building innovative and impactful platforms.
-</p>
-<br>
-<p align="start">
-    <a href="https://skillicons.dev">
-        <img
-            src="https://skillicons.dev/icons?i=angular,express,laravel,sequelize,html,css,bootstrap,tailwind,js,jquery,ts,nodejs,php,mysql,firebase,cloudflare,git,github,gitlab,androidstudio,vscode,postman,ps,ai" />
-    </a>
-</p>
-<br>
-<a href="https://www.linkedin.com/in/bhuvaneshcj/"><img
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:cjbhuvanesh8@gmail.com?subject=Refered%20From%20Git%20Profile"><img
-        src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Gmail" />
-</a>&nbsp;
+💡 **What I Do:**  
+- Architect and develop **end-to-end solutions** with **Angular, Ionic, Node.js, Laravel, and NestJS**  
+- Design and implement **microservices** for fintech, productivity, and task management platforms  
+- Handle **real-time data processing** with **WebSockets & Kafka**  
+- Publish and maintain **mobile apps** on Google Play & Apple App Store  
+
+🛠 **Tech Stack:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,express,laravel,sequelize,html,css,bootstrap,tailwind,js,jquery,ts,nodejs,php,mysql,firebase,cloudflare,git,github,gitlab,androidstudio,vscode,postman,ps,ai" />
+  </a>
+</p>  
+
+### 📫 Connect with Me  
+<a href="https://www.linkedin.com/in/bhuvaneshcj/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="mailto:cjbhuvanesh8@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+
+---
+
+💬 *"Code is more than syntax — it’s a craft of turning ideas into impactful experiences."*  
