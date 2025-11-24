@@ -1,9 +1,11 @@
-## 👋 Hey there, I'm Bhuvanesh!  
+## 🤖 Bhuvanesh — Full Stack Developer crafting real-time & AI-enhanced applications
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvaneshcj&color=blue)  
-![Build Status](https://img.shields.io/badge/build-passing-success)  
-![Last Updated](https://img.shields.io/badge/updated-2025-informational)  
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhuvaneshcj&color=blue" />
+  <img src="https://img.shields.io/badge/build-passing-success" />
+  <img src="https://img.shields.io/badge/updated-2025-informational" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen" />
+</p>
 
 ---
 
