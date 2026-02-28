@@ -52,17 +52,6 @@ Helps teams identify outdated or potentially risky packages early.
 
 ---
 
-### 🔹 cloudflare-edge-toolkit
-TypeScript toolkit for **Cloudflare Workers**, providing routing, middleware,
-authentication helpers, and storage integrations (KV, R2, D1).
-
-- **Package:** https://www.npmjs.com/package/cloudflare-edge-toolkit  
-- **Repository:** https://github.com/bhuvaneshcj/cloudflare-edge-toolkit  
-- **Tech:** TypeScript, Cloudflare Workers  
-- **Type:** Edge Computing / API Toolkit
-
----
-
 ## 🎓 Certification
 - **Angular – The Complete Guide** (Udemy)
 
